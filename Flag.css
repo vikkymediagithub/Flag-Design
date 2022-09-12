@@ -1,0 +1,10 @@
+body { 
+  background:linear-gradient(rgb(17, 220, 102),lightGreen);
+  
+}
+h1,h3 {
+  text-align:center ;
+  color:white;
+  font-family:courier new;
+  
+}
